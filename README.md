@@ -8,3 +8,4 @@ Pandas== 1.3.1
 Numpy== 1.19.5
 Matplotlib== 3.4.3
 Seaborn== 0.11.
+![image](https://user-images.githubusercontent.com/81581862/176584838-65af590c-6220-4866-b6d9-ec159832fbfb.png)
